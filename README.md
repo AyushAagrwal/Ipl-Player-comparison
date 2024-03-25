@@ -1,6 +1,6 @@
 # IPL Player Comparison Game
 
-[Download PDF]("IPL·Streamlit.pdf")
+![IPL Player Comparison Game](IPL.jpg)
 
 ## About
 IPL Player Comparison Game is a web application that facilitates comparing IPL players based on their overall statistics. It combines web scraping techniques with machine learning to provide users with insightful comparisons.
@@ -13,12 +13,4 @@ IPL Player Comparison Game is a web application that facilitates comparing IPL p
 ## Web Application
 Check out the IPL Player Comparison Game [here](https://ipl-compare.streamlit.app/).
 
-## Usage
-[Add instructions on how to use the web application if necessary]
-
-## Installation
-[Include installation instructions if applicable]
-
-## Contributing
-[Provide guidelines for contributing to the project, if applicable]
 

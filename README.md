@@ -1,6 +1,6 @@
 # IPL Player Comparison Game
 
-![IPL Player Comparison Game](https://link_to_your_screenshot)
+![IPL Player Comparison Game](Img.jpg)
 
 ## About
 IPL Player Comparison Game is a web application that facilitates comparing IPL players based on their overall statistics. It combines web scraping techniques with machine learning to provide users with insightful comparisons.
